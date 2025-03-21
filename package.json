@@ -1,0 +1,18 @@
+{
+  "name": "simple-http-server",
+  "version": "1.0.0",
+  "description": "A simple HTTP server built with Node.js",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "server"
+  ],
+  "author": "frtD",
+  "license": "MIT"
+}
